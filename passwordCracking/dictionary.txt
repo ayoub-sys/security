@@ -1,0 +1,6 @@
+password123
+admin
+administrator
+guest 
+football
+basketball
